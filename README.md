@@ -11,7 +11,8 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=amiezeng&color=brightgreen)
-&nbsp; ![Github](https://img.shields.io/github/followers/amiezeng?label=Follow%20Me%21&style=social)
+&nbsp; 
+![Github](https://img.shields.io/github/followers/amiezeng?label=Follow%20Me%21&style=social)
 
 [linkedin]: www.linkedin.com/in/amiezeng
-[email]: mailto: amiezeng12@gmail.com
+[email]: mailto:amiezeng12@gmail.com
