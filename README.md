@@ -1,4 +1,4 @@
-# Hi there, I'm Amie Zeng 👋
+# Welcome to my GitHub!
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amie-zeng-7a2013271)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiezeng12@gmail.com)
 <br>
