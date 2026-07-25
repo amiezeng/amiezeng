@@ -1,5 +1,6 @@
 ## Hello!!
 <br>
+
 * My name is Amie, I'm studying computer science at the University of Maryland
 * Email: amiezeng@terpmail.umd.edu
 * LinkedIn: www.linkedin.com/in/amiezeng
