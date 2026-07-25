@@ -1,8 +1,10 @@
 # Hello!!
 <br>
+
 * My name is Amie, I'm studying computer science at the University of Maryland
-* Email: amiezeng12@gmail.com
+* Email: amiezeng@terpmail.umd.edu
 * LinkedIn: www.linkedin.com/in/amiezeng
+
 <!---
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jainsavar.com)
 [website]: https://www.jainsavar.com
