@@ -1,7 +1,7 @@
 ## Hello!!
 <br>
 
-* My name is Amie, I'm studying computer science at the University of Maryland
+* My name is Amie, I'm a Computer Science major and Physics minor at the University of Maryland
 * Email: amiezeng@terpmail.umd.edu
 * LinkedIn: www.linkedin.com/in/amiezeng
 
